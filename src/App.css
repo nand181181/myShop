@@ -32,7 +32,108 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.btn-success {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.header {
+  background-color: #0A3B61;
+  ;
+}
+
+.minHeight {
+  min-height: 400px;
+}
+
+.navbar-brand {
+  color: #4e4bff;
+}
+
+.nav-item a {
+  color: #ffffff !important;
+}
+
+.nav-item a:hover {
+  color: #caffff !important;
+}
+
+.footer-stip1 {
+  background-color: #0A3B61;
+  border-bottom: 1px solid #000000;
+}
+
+.footerBG {
+  background-color: #026b5d;
+}
+
+
+.card:hover {
+  transform: scale(1.03);
+  transition: 0.3s ease;
+}
+
+h2 {
+  color: #0b006e !important;
+}
+
+.left-panel_BG {
+  background-color: #F0F0F0;
+}
+
+.moving-wrapper {
+  width: 100%;
+  overflow: hidden;
+  background: linear-gradient(90deg, #ff5722, #ff9800);
+  padding: 10px 0;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  white-space: nowrap;
+  border-bottom: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.moving-text {
+  display: inline-block;
+  animation: scroll 15s linear infinite;
+  padding-left: 100%;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+/* Hover to pause */
+.moving-wrapper:hover .moving-text {
+  animation-play-state: paused;
+}
+
+.psw a {
+  text-decoration: none;
+}
+
+.language-switch {
+  margin-left: auto;
+}
+
+.language-switch button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  cursor: pointer;
 }

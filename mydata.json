@@ -1,0 +1,879 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "nand",
+      "password": "test123"
+    },
+    {
+      "id": "2",
+      "username": "demo",
+      "password": "12345"
+    },
+    {
+      "id": "9f59",
+      "username": "sanjay",
+      "password": "sanjay123",
+      "email": "nand12@gmail.com"
+    },
+    {
+      "id": "f083",
+      "username": "nand1",
+      "password": "nand123",
+      "email": "nand1@gmail.com"
+    },
+    {
+      "id": "99d7",
+      "username": "Prateek",
+      "password": "test123",
+      "email": "prateek@gmail.com"
+    },
+    {
+      "id": "2d8e",
+      "username": "vishal",
+      "password": "vishal123",
+      "email": "vishal123@gmail.com"
+    },
+    {
+      "id": "02c8",
+      "username": "arvind",
+      "password": "arvind123",
+      "email": "arvind123@gmail.com"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Men's Polo Shirt",
+      "category": "Tshirts",
+      "brand": "HRX by Hrithik Roshan",
+      "price": 799,
+      "image": "images/img1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Classic Black T-Shirt",
+      "category": "Tshirts",
+      "brand": "Roadster",
+      "price": 499,
+      "image": "images/img2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Casual Lavender Shirt",
+      "category": "Shirts",
+      "brand": "Tommy Hilfiger",
+      "price": 1299,
+      "image": "images/img3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "White Casual Shirt",
+      "category": "Shirts",
+      "brand": "U.S. Polo Assn.",
+      "price": 1099,
+      "image": "images/img4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Cotton Half Sleeve Shirt",
+      "category": "Shirts",
+      "brand": "Allen Solly",
+      "price": 899,
+      "image": "images/img5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Olive Green Shirt",
+      "category": "Shirts",
+      "brand": "Peter England",
+      "price": 999,
+      "image": "images/img6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "White Crew Neck Tee",
+      "category": "Tshirts",
+      "brand": "Bewakoof",
+      "price": 459,
+      "image": "images/img7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Light Blue Formal Shirt",
+      "category": "Shirts",
+      "brand": "Van Heusen",
+      "price": 1299,
+      "image": "images/img8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Maroon Casual Shirt",
+      "category": "Shirts",
+      "brand": "Roadster",
+      "price": 999,
+      "image": "images/img9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Beige Full Sleeve Shirt",
+      "category": "Shirts",
+      "brand": "Park Avenue",
+      "price": 1199,
+      "image": "images/img10.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Graphic Print Oversized Tee",
+      "category": "Tshirts",
+      "brand": "Bewakoof",
+      "price": 549,
+      "image": "images/img11.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Brown Check Shirt",
+      "category": "Shirts",
+      "brand": "Highlander",
+      "price": 899,
+      "image": "images/img12.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Wine Color Shirt",
+      "category": "Shirts",
+      "brand": "Louis Philippe",
+      "price": 1399,
+      "image": "images/img13.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Black Oversized Tee",
+      "category": "Tshirts",
+      "brand": "WROGN",
+      "price": 699,
+      "image": "images/img14.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Basic White T-Shirt",
+      "category": "Tshirts",
+      "brand": "Puma",
+      "price": 499,
+      "image": "images/img15.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Black Leather Jacket",
+      "category": "Jackets",
+      "brand": "Levi's",
+      "price": 3499,
+      "image": "images/img16.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Red Check Shirt",
+      "category": "Shirts",
+      "brand": "U.S. Polo Assn.",
+      "price": 1099,
+      "image": "images/img17.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Yellow Check Shirt",
+      "category": "Shirts",
+      "brand": "Louis Philippe",
+      "price": 1199,
+      "image": "images/img18.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Grey Casual Shirt",
+      "category": "Shirts",
+      "brand": "H&M",
+      "price": 899,
+      "image": "images/img19.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Blue Check Shirt",
+      "category": "Shirts",
+      "brand": "Allen Solly",
+      "price": 999,
+      "image": "images/img20.jpg"
+    },
+    {
+      "id": "21",
+      "name": "HP Pavilion Laptop",
+      "category": "Laptops",
+      "brand": "HP",
+      "price": 54999,
+      "image": "images/img21.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Lenovo IdeaPad Slim",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 47999,
+      "image": "images/img22.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Lenovo ThinkBook",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 59999,
+      "image": "images/img23.jpg"
+    },
+    {
+      "id": "24",
+      "name": "JioBook Laptop",
+      "category": "Laptops",
+      "brand": "Jio",
+      "price": 16999,
+      "image": "images/img24.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Acer Aspire 7",
+      "category": "Laptops",
+      "brand": "Acer",
+      "price": 52999,
+      "image": "images/img25.jpg"
+    },
+    {
+      "id": "26",
+      "name": "HP Laptop 15s",
+      "category": "Laptops",
+      "brand": "HP",
+      "price": 45999,
+      "image": "images/img26.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Dell Inspiron 15",
+      "category": "Laptops",
+      "brand": "Dell",
+      "price": 54999,
+      "image": "images/img27.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Asus VivoBook",
+      "category": "Laptops",
+      "brand": "Asus",
+      "price": 49999,
+      "image": "images/img28.jpg"
+    },
+    {
+      "id": "29",
+      "name": "HP Envy x360",
+      "category": "Laptops",
+      "brand": "HP",
+      "price": 79999,
+      "image": "images/img29.jpg"
+    },
+    {
+      "id": "30",
+      "name": "Samsung Galaxy S23",
+      "category": "Mobiles",
+      "brand": "Samsung",
+      "price": 74999,
+      "image": "images/img30.jpg"
+    },
+    {
+      "id": "31",
+      "name": "iQOO Z10",
+      "category": "Mobiles",
+      "brand": "iQOO",
+      "price": 19999,
+      "image": "images/img31.jpg"
+    },
+    {
+      "id": "32",
+      "name": "Samsung Galaxy A54",
+      "category": "Mobiles",
+      "brand": "Samsung",
+      "price": 37999,
+      "image": "images/img32.jpg"
+    },
+    {
+      "id": "33",
+      "name": "iPhone 13",
+      "category": "Mobiles",
+      "brand": "Apple",
+      "price": 59999,
+      "image": "images/img33.jpg"
+    },
+    {
+      "id": "34",
+      "name": "Realme Narzo 60",
+      "category": "Mobiles",
+      "brand": "Realme",
+      "price": 17999,
+      "image": "images/img34.jpg"
+    },
+    {
+      "id": "35",
+      "name": "OnePlus Nord CE 3",
+      "category": "Mobiles",
+      "brand": "OnePlus",
+      "price": 24999,
+      "image": "images/img35.jpg"
+    },
+    {
+      "id": "36",
+      "name": "iPhone 15 Pro",
+      "category": "Mobiles",
+      "brand": "Apple",
+      "price": 134999,
+      "image": "images/img36.jpg"
+    },
+    {
+      "id": "37",
+      "name": "Vivo V29",
+      "category": "Mobiles",
+      "brand": "Vivo",
+      "price": 32999,
+      "image": "images/img37.jpg"
+    },
+    {
+      "id": "38",
+      "name": "Motorola Edge 40",
+      "category": "Mobiles",
+      "brand": "Motorola",
+      "price": 29999,
+      "image": "images/img38.jpg"
+    },
+    {
+      "id": "39",
+      "name": "iPhone 14",
+      "category": "Mobiles",
+      "brand": "Apple",
+      "price": 69999,
+      "image": "images/img39.jpg"
+    }
+  ],
+  "star": [
+    {
+      "id": "1",
+      "name": "Ethnic Kurta",
+      "category": "Women's Clothing",
+      "brand": "Sangria",
+      "price": 1299,
+      "image": "images/star1.png",
+      "description": "Stylish ethnic kurta with minimum 50% off."
+    },
+    {
+      "id": "2",
+      "name": "Denim Jeans",
+      "category": "Men's Clothing",
+      "brand": "SPYKAR",
+      "price": 1599,
+      "image": "images/star2.png",
+      "description": "Comfortable denim jeans with minimum 50% off."
+    },
+    {
+      "id": "3",
+      "name": "Casual T-Shirt",
+      "category": "Men's Clothing",
+      "brand": "KETCH",
+      "price": 799,
+      "image": "images/star3.png",
+      "description": "Trendy casual T-shirt with minimum 50% off."
+    },
+    {
+      "id": "4",
+      "name": "Printed Kurta",
+      "category": "Women's Clothing",
+      "brand": "Janasya",
+      "price": 1199,
+      "image": "images/star4.png",
+      "description": "Elegant printed kurta with minimum 50% off."
+    },
+    {
+      "id": "5",
+      "name": "Sleeveless Top",
+      "category": "Women's Clothing",
+      "brand": "FabAlley",
+      "price": 999,
+      "image": "images/star5.png",
+      "description": "Chic sleeveless top with minimum 50% off."
+    },
+    {
+      "id": "6",
+      "name": "Formal Shirt",
+      "category": "Men's Clothing",
+      "brand": "Rare Rabbit",
+      "price": 1499,
+      "image": "images/star6.png",
+      "description": "Premium formal shirt with minimum 50% off."
+    },
+    {
+      "id": "7",
+      "name": "Party Dress",
+      "category": "Women's Clothing",
+      "brand": "Berrylush",
+      "price": 1799,
+      "image": "images/star7.png",
+      "description": "Stylish party dress with minimum 50% off."
+    },
+    {
+      "id": "8",
+      "name": "Ethnic Kurta Set",
+      "category": "Women's Clothing",
+      "brand": "Aurelia",
+      "price": 1399,
+      "image": "images/star8.png",
+      "description": "Elegant ethnic kurta set with minimum 50% off."
+    },
+    {
+      "id": "9",
+      "name": "Striped Top",
+      "category": "Women's Clothing",
+      "brand": "FableStreet",
+      "price": 1099,
+      "image": "images/star9.png",
+      "description": "Smart striped top with minimum 50% off."
+    },
+    {
+      "id": "10",
+      "name": "Printed Kurta",
+      "category": "Women's Clothing",
+      "brand": "Libas",
+      "price": 1299,
+      "image": "images/star10.png",
+      "description": "Beautiful printed kurta with minimum 50% off."
+    },
+    {
+      "id": "11",
+      "name": "Wooden Table",
+      "category": "Furniture",
+      "brand": "Home Decor",
+      "price": 4999,
+      "image": "images/star11.png",
+      "description": "Elegant wooden table with minimum 50% off."
+    },
+    {
+      "id": "12",
+      "name": "Ethnic Suit Set",
+      "category": "Women's Clothing",
+      "brand": "W",
+      "price": 1999,
+      "image": "images/star12.png",
+      "description": "Designer ethnic suit set with minimum 50% off."
+    }
+  ],
+  "mobile": [
+    {
+      "id": "1",
+      "name": "Redmi A3",
+      "category": "Smartphone",
+      "brand": "Xiaomi",
+      "price": "12,677",
+      "image": "assets/images/mobile/001.jpg",
+      "description": "Redmi A3 smartphone with powerful performance."
+    },
+    {
+      "id": "2",
+      "name": "Nokia G21",
+      "category": "Smartphone",
+      "brand": "Nokia",
+      "price": "23,888",
+      "image": "assets/images/mobile/002.jpg",
+      "description": "Nokia G21 with long battery backup."
+    },
+    {
+      "id": "3",
+      "name": "POCO M4 Pro",
+      "category": "Smartphone",
+      "brand": "POCO",
+      "price": "13,890",
+      "image": "assets/images/mobile/003.jpg",
+      "description": "POCO M4 Pro smartphone with fast charging."
+    },
+    {
+      "id": "4",
+      "name": "iPhone SE",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "price": "34,999",
+      "image": "assets/images/mobile/004.jpg",
+      "description": "Apple iPhone SE with Retina HD display."
+    },
+    {
+      "id": "5",
+      "name": "Samsung Galaxy A52",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "price": "45,999",
+      "image": "assets/images/mobile/005.jpg",
+      "description": "Samsung Galaxy A52 with quad camera setup."
+    },
+    {
+      "id": "6",
+      "name": "Redmi Note 11",
+      "category": "Smartphone",
+      "brand": "Xiaomi",
+      "price": "23,889",
+      "image": "assets/images/mobile/006.jpg",
+      "description": "Redmi Note 11 with AMOLED display."
+    },
+    {
+      "id": "7",
+      "name": "OPPO K3",
+      "category": "Smartphone",
+      "brand": "OPPO",
+      "price": "23,455",
+      "image": "assets/images/mobile/007.jpg",
+      "description": "OPPO K3 smartphone with pop-up selfie camera."
+    },
+    {
+      "id": "8",
+      "name": "iPhone 13 Mini",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "price": "56,908",
+      "image": "assets/images/mobile/008.jpg",
+      "description": "Compact iPhone 13 Mini with A15 Bionic chip."
+    },
+    {
+      "id": "9",
+      "name": "Vivo Y11s",
+      "category": "Smartphone",
+      "brand": "Vivo",
+      "price": "34,788",
+      "image": "assets/images/mobile/009.jpg",
+      "description": "Vivo Y11s with dual rear cameras."
+    },
+    {
+      "id": "10",
+      "name": "Samsung Galaxy M11",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "price": "26,567",
+      "image": "assets/images/mobile/0010.jpg",
+      "description": "Samsung Galaxy M11 with Infinity-O display."
+    },
+    {
+      "id": "11",
+      "name": "Samsung Galaxy A12",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "price": "46,999",
+      "image": "assets/images/mobile/0011.jpg",
+      "description": "Samsung Galaxy A12 with 48MP quad camera."
+    },
+    {
+      "id": "12",
+      "name": "Nokia C30",
+      "category": "Smartphone",
+      "brand": "Nokia",
+      "price": "23,678",
+      "image": "assets/images/mobile/0012.jpg",
+      "description": "Nokia C30 with large 6000mAh battery."
+    },
+    {
+      "id": "13",
+      "name": "Redmi Note 10",
+      "category": "Smartphone",
+      "brand": "Xiaomi",
+      "price": "12,999",
+      "image": "assets/images/mobile/0013.jpg",
+      "description": "Redmi Note 10 with Super AMOLED display."
+    },
+    {
+      "id": "14",
+      "name": "Micromax In Note 1",
+      "category": "Smartphone",
+      "brand": "Micromax",
+      "price": "45,989",
+      "image": "assets/images/mobile/0014.jpg",
+      "description": "Micromax In Note 1 with MediaTek G85 processor."
+    }
+  ],
+  "fashion": [
+    {
+      "id": "1",
+      "name": "Floral Summer Dress",
+      "category": "Women's Clothing",
+      "brand": "FabIndia",
+      "price": "1,499",
+      "image": "assets/images/fashion/001.jpg",
+      "description": "Lightweight floral summer dress perfect for daily wear."
+    },
+    {
+      "id": "2",
+      "name": "Men's Casual Shirt",
+      "category": "Men's Clothing",
+      "brand": "Louis Philippe",
+      "price": "1,199",
+      "image": "assets/images/fashion/002.jpg",
+      "description": "Stylish casual cotton shirt for men."
+    },
+    {
+      "id": "3",
+      "name": "Women’s Denim Jacket",
+      "category": "Women's Clothing",
+      "brand": "Only",
+      "price": "2,399",
+      "image": "assets/images/fashion/003.jpg",
+      "description": "Trendy blue denim jacket with premium stitching."
+    },
+    {
+      "id": "4",
+      "name": "Men’s Hooded Sweatshirt",
+      "category": "Men's Clothing",
+      "brand": "Roadster",
+      "price": "1,899",
+      "image": "assets/images/fashion/004.jpg",
+      "description": "Comfortable and warm hooded sweatshirt."
+    },
+    {
+      "id": "5",
+      "name": "Women’s Kurti",
+      "category": "Women's Clothing",
+      "brand": "Biba",
+      "price": "999",
+      "image": "assets/images/fashion/005.jpg",
+      "description": "Elegant ethnic kurti with traditional design."
+    },
+    {
+      "id": "6",
+      "name": "Men’s Formal Trousers",
+      "category": "Men's Clothing",
+      "brand": "Park Avenue",
+      "price": "1,699",
+      "image": "assets/images/fashion/006.jpg",
+      "description": "Premium slim-fit formal trousers."
+    },
+    {
+      "id": "7",
+      "name": "Women’s Handbag",
+      "category": "Accessories",
+      "brand": "Caprese",
+      "price": "2,599",
+      "image": "assets/images/fashion/007.jpg",
+      "description": "Stylish handbag with spacious compartments."
+    },
+    {
+      "id": "8",
+      "name": "Men’s Leather Belt",
+      "category": "Accessories",
+      "brand": "WildHorn",
+      "price": "799",
+      "image": "assets/images/fashion/008.jpg",
+      "description": "Genuine leather belt for formal wear."
+    },
+    {
+      "id": "9",
+      "name": "Women's Sandals",
+      "category": "Footwear",
+      "brand": "Catwalk",
+      "price": "1,299",
+      "image": "assets/images/fashion/009.jpg",
+      "description": "Comfortable sandals with modern design."
+    },
+    {
+      "id": "10",
+      "name": "Men’s Sports Shoes",
+      "category": "Footwear",
+      "brand": "Adidas",
+      "price": "2,999",
+      "image": "assets/images/fashion/0010.jpg",
+      "description": "Lightweight and durable sports shoes."
+    },
+    {
+      "id": "11",
+      "name": "Men’s Sports Shoes",
+      "category": "Footwear",
+      "brand": "Adidas",
+      "price": "2,699",
+      "image": "assets/images/fashion/0011.jpg",
+      "description": "Lightweight and durable sports shoes."
+    },
+    {
+      "id": "12",
+      "name": "Men’s Sports Shoes2",
+      "category": "Footwear",
+      "brand": "Adidas2",
+      "price": "1,999",
+      "image": "assets/images/fashion/001.jpg",
+      "description": "Lightweight and durable sports shoes."
+    },
+    {
+      "id": "13",
+      "name": "Men’s Sports Shoes3",
+      "category": "Footwear",
+      "brand": "Adidas3",
+      "price": "3,999",
+      "image": "assets/images/fashion/003.jpg",
+      "description": "Lightweight and durable sports shoes."
+    },
+    {
+      "id": "14",
+      "name": "Men’s Sports Shoes4",
+      "category": "Footwear",
+      "brand": "Adida4s",
+      "price": "4,999",
+      "image": "assets/images/fashion/004.jpg",
+      "description": "Lightweight and durable sports shoes4."
+    },
+    {
+      "id": "15",
+      "name": "Men’s Sports Shoes5",
+      "category": "Footwear",
+      "brand": "Adidas5",
+      "price": "2,995",
+      "image": "assets/images/fashion/005.jpg",
+      "description": "Lightweight and durable sports shoes.5"
+    },
+    {
+      "id": "16",
+      "name": "Men’s Sports Shoes6",
+      "category": "Footwear",
+      "brand": "Adidas6",
+      "price": "2,996",
+      "image": "assets/images/fashion/006.jpg",
+      "description": "Lightweight and durable sports shoes.6"
+    },
+    {
+      "id": "17",
+      "name": "Men’s Sports Shoes7",
+      "category": "Footwear",
+      "brand": "Adidas7",
+      "price": "3,999",
+      "image": "assets/images/fashion/007.jpg",
+      "description": "Lightweight and durable sports shoes7."
+    },
+    {
+      "id": "18",
+      "name": "Men’s Sports Shoes8",
+      "category": "Footwear",
+      "brand": "Adidas",
+      "price": "8,999",
+      "image": "assets/images/fashion/008.jpg",
+      "description": "Lightweight and durable sports shoes8."
+    }
+  ],
+  "electronics": [
+    {
+      "id": "1",
+      "name": "Sony Headphones",
+      "category": "Audio",
+      "brand": "Sony",
+      "price": "2,499",
+      "image": "assets/images/electronics/001.jpg",
+      "description": "High-quality wireless headphones with deep bass."
+    },
+    {
+      "id": "2",
+      "name": "Bluetooth Speaker",
+      "category": "Audio",
+      "brand": "Boat",
+      "price": "1,299",
+      "image": "assets/images/electronics/002.jpg",
+      "description": "Portable Bluetooth speaker with HD sound."
+    },
+    {
+      "id": "3",
+      "name": "Smart LED TV",
+      "category": "Television",
+      "brand": "Samsung",
+      "price": "22,499",
+      "image": "assets/images/electronics/003.jpg",
+      "description": "32-inch Smart LED TV with vibrant display."
+    },
+    {
+      "id": "4",
+      "name": "Digital DSLR Camera",
+      "category": "Camera",
+      "brand": "Canon",
+      "price": "44,899",
+      "image": "assets/images/electronics/004.jpg",
+      "description": "DSLR camera with high-resolution imaging."
+    },
+    {
+      "id": "5",
+      "name": "Smart Watch",
+      "category": "Wearable",
+      "brand": "Apple",
+      "price": "28,999",
+      "image": "assets/images/electronics/005.jpg",
+      "description": "Feature-rich smartwatch with fitness tracking."
+    },
+    {
+      "id": "6",
+      "name": "Laptop",
+      "category": "Computer",
+      "brand": "HP",
+      "price": "48,999",
+      "image": "assets/images/electronics/006.jpg",
+      "description": "High-performance laptop for work and gaming."
+    },
+    {
+      "id": "7",
+      "name": "Wireless Keyboard",
+      "category": "Computer Accessories",
+      "brand": "Logitech",
+      "price": "1,099",
+      "image": "assets/images/electronics/007.jpg",
+      "description": "Ergonomic wireless keyboard with long battery."
+    },
+    {
+      "id": "8",
+      "name": "Gaming Mouse",
+      "category": "Computer Accessories",
+      "brand": "Razer",
+      "price": "2,199",
+      "image": "assets/images/electronics/008.jpg",
+      "description": "RGB gaming mouse with high-precision sensor."
+    },
+    {
+      "id": "9",
+      "name": "Power Bank",
+      "category": "Mobile Accessories",
+      "brand": "Mi",
+      "price": "899",
+      "image": "assets/images/electronics/009.jpg",
+      "description": "10000mAh power bank with fast charging."
+    },
+    {
+      "id": "10",
+      "name": "USB Flash Drive",
+      "category": "Storage",
+      "brand": "SanDisk",
+      "price": "599",
+      "image": "assets/images/electronics/0010.jpg",
+      "description": "32GB USB 3.0 flash drive for fast transfer."
+    },
+    {
+      "id": "11",
+      "name": "Home Theater System",
+      "category": "Audio",
+      "brand": "Philips",
+      "price": "9,499",
+      "image": "assets/images/electronics/0011.jpg",
+      "description": "5.1 channel home theater with crystal clear sound."
+    },
+    {
+      "id": "12",
+      "name": "Electric Kettle",
+      "category": "Kitchen Appliances",
+      "brand": "Prestige",
+      "price": "1,299",
+      "image": "assets/images/electronics/0012.jpg",
+      "description": "Stainless steel kettle with auto shut-off."
+    },
+    {
+      "id": "13",
+      "name": "Air Purifier",
+      "category": "Home Appliances",
+      "brand": "Dyson",
+      "price": "34,999",
+      "image": "assets/images/electronics/0013.jpg",
+      "description": "Advanced air purifier with HEPA filter."
+    }
+  ]
+}

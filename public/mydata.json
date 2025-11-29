@@ -1,0 +1,180 @@
+
+{
+"users": [
+  {
+    "id": 1,
+    "username": "nand",
+    "password": "test123"
+  },
+  {
+    "id": 2,
+    "username": "demo",
+    "password": "12345"
+  }
+],
+
+  "product":
+ [
+  {
+    "id": 1,
+    "name": "Men's Polo Shirt",
+    "category": "Tshirts",
+    "brand": "HRX by Hrithik Roshan",
+    "price": 799,
+    "image": "http://localhost:5000/images/img (1).jpg"
+  },
+  {
+    "id": 2,
+    "name": "Classic Black T-Shirt",
+    "category": "Tshirts",
+    "brand": "Roadster",
+    "price": 499,
+    "image": "http://localhost:5000/images/img (2).jpg"
+  },
+  {
+    "id": 3,
+    "name": "Casual Lavender Shirt",
+    "category": "Shirts",
+    "brand": "Tommy Hilfiger",
+    "price": 1299,
+    "image": "http://localhost:5000/images/img (3).jpg"
+  },
+  {
+    "id": 4,
+    "name": "White Casual Shirt",
+    "category": "Shirts",
+    "brand": "U.S. Polo Assn.",
+    "price": 1099,
+    "image": "http://localhost:5000/images/img (4).jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cotton Half Sleeve Shirt",
+    "category": "Shirts",
+    "brand": "Allen Solly",
+    "price": 899,
+    "image": "ihttp://localhost:5000/imagesmages/img (5).jpg"
+  },
+  {
+    "id": 6,
+    "name": "Olive Green Shirt",
+    "category": "Shirts",
+    "brand": "Peter England",
+    "price": 999,
+    "image": "http://localhost:5000/images/img (6).jpg"
+  },
+  {
+    "id": 7,
+    "name": "White Crew Neck Tee",
+    "category": "Tshirts",
+    "brand": "Bewakoof",
+    "price": 459,
+    "image": "http://localhost:5000/images/img (7).jpg"
+  },
+  {
+    "id": 8,
+    "name": "Light Blue Formal Shirt",
+    "category": "Shirts",
+    "brand": "Van Heusen",
+    "price": 1299,
+    "image": "http://localhost:5000/images/img (8).jpg"
+  },
+  {
+    "id": 9,
+    "name": "Maroon Casual Shirt",
+    "category": "Shirts",
+    "brand": "Roadster",
+    "price": 999,
+    "image": "http://localhost:5000/images/img (9).jpg"
+  },
+  {
+    "id": 10,
+    "name": "Beige Full Sleeve Shirt",
+    "category": "Shirts",
+    "brand": "Park Avenue",
+    "price": 1199,
+    "image": "http://localhost:5000/images/img (10).jpg"
+  },
+  {
+    "id": 11,
+    "name": "Graphic Print Oversized Tee",
+    "category": "Tshirts",
+    "brand": "Bewakoof",
+    "price": 549,
+    "image": "http://localhost:5000/images/img (11).jpg"
+  },
+  {
+    "id": 12,
+    "name": "Brown Check Shirt",
+    "category": "Shirts",
+    "brand": "Highlander",
+    "price": 899,
+    "image": "http://localhost:5000/images/img (12).jpg"
+  },
+  {
+    "id": 13,
+    "name": "Wine Color Shirt",
+    "category": "Shirts",
+    "brand": "Louis Philippe",
+    "price": 1399,
+    "image": "http://localhost:5000/images/img (13).jpg"
+  },
+  {
+    "id": 14,
+    "name": "Black Oversized Tee",
+    "category": "Tshirts",
+    "brand": "WROGN",
+    "price": 699,
+    "image": "http://localhost:5000/images/img (14).jpg"
+  },
+  {
+    "id": 15,
+    "name": "Basic White T-Shirt",
+    "category": "Tshirts",
+    "brand": "Puma",
+    "price": 499,
+    "image": "http://localhost:5000/images/img (15).jpg"
+  },
+  {
+    "id": 16,
+    "name": "Black Leather Jacket",
+    "category": "Jackets",
+    "brand": "Levi's",
+    "price": 3499,
+    "image": "http://localhost:5000/images/img (16).jpg"
+  },
+  {
+    "id": 17,
+    "name": "Red Check Shirt",
+    "category": "Shirts",
+    "brand": "U.S. Polo Assn.",
+    "price": 1099,
+    "image": "http://localhost:5000/images/img (17).jpg"
+  },
+  {
+    "id": 18,
+    "name": "Yellow Check Shirt",
+    "category": "Shirts",
+    "brand": "Louis Philippe",
+    "price": 1199,
+    "image": "http://localhost:5000/images/img (18).jpg"
+  },
+  {
+    "id": 19,
+    "name": "Grey Casual Shirt",
+    "category": "Shirts",
+    "brand": "H&M",
+    "price": 899,
+    "image": "http://localhost:5000/images/img (19).jpg"
+  },
+  {
+    "id": 20,
+    "name": "Blue Check Shirt",
+    "category": "Shirts",
+    "brand": "Allen Solly",
+    "price": 999,
+    "image": "http://localhost:5000/images/img (20).jpg"
+  }
+]
+
+}
